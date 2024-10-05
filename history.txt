@@ -1,0 +1,500 @@
+   41  cd umuzi/person/
+   42  node main.js 
+   43  git add .
+   44  git commit -m "Update person
+   45  use new ES2015 syntax"
+   46  git push
+   47  nmcli d wifi
+   48  wifi
+   49  light -S 66
+   50  cd umuzi/person/
+   51  ls
+   52  code person.js 
+   53  cd ~/.sanseira/learnera/
+   54  code .
+   55  nmcli d wifi
+   56  firefox 
+   57  touch functions/auth.py
+   58  firebase emulators:start --import=./emulator_data/ --export-on-exit
+   59  firebase emulators:start --import=./emulator_data/ --export-on-exit
+   60  firebase emulators:start --import=./emulator_data/ --export-on-exit
+   61  firebase emulators:start --import=./emulator_data/ --export-on-exit
+   62  firebase deploy --only functions'
+   63  firebase deploy --only functions
+   64  firebase auth
+   65  firebase -h
+   66  firebase login
+   67  firebase login --reauth
+   68  firebase deploy --only functions
+   69  firebase deploy --only functions
+   70  flutter run
+   71  flutter run
+   72  nmcli d wifi
+   73  nmcli d wifi
+   74  nmcli d wifi
+   75  nmcli d wifi
+   76  nmcli d wifi
+   77  wifi
+   78  firefox 
+   79  cd .sanseira/learnera/
+   80  code .
+   81  firebase emulators:start --import=./emulator_data/ --export-on-exit
+   82  flutter run
+   83  cd .sanseira/
+   84  ls
+   85  ls
+   86  ls services/
+   87  ls cloud_services/
+   88  cd cloud_services/
+   89  cat events.py 
+   90  echo "perc: 44,54,74, subs: Math,English,Computer Science, time_range: 9:00 AM,5:00 PM" >> events.py 
+   91  code .
+   92  python3.12
+   93  python3.12 events.py 
+   94  python3.12 main.py 
+   95  python3.12 events.py 
+   96  python3.12 events.py 
+   97  python3.12 events.py 
+   98  python3.12 events.py 
+   99  python3.12 events.py 
+  100  python3.12 events.py 
+  101  python3.12 events.py 
+  102  python3.12 events.py 
+  103  python3.12 events.py 
+  104  python3.12 events.py 
+  105  python3.12 events.py 
+  106  python3.12 events.py 
+  107  python3.12 events.py 
+  108  python3.12 events.py 
+  109  python3.12 events.py 
+  110  python3.12 events.py 
+  111  python3.12 events.py 
+  112  python3.12 events.py 
+  113  python3.12 events.py 
+  114  python3.12 events.py 
+  115  python3.12 events.py 
+  116  python3.12 events.py 
+  117  python3.12 events.py 
+  118  python3.12 events.py 
+  119  python3.12 events.py 
+  120  python3.12 events.py 
+  121  python3.12 events.py 
+  122  python3.12 events.py 
+  123  python3.12 events.py 
+  124  python3.12 events.py 
+  125  python3.12 events.py 
+  126  python3.12 events.py 
+  127  python3.12 events.py 
+  128  python3.12 events.py 
+  129  python3.12 events.py 
+  130  python3.12 events.py 
+  131  python3.12 events.py 
+  132  python3.12 events.py 
+  133  python3.12 events.py 
+  134  python3.12 events.py 
+  135  python3.12 events.py 
+  136  python3.12 events.py 
+  137  python3.12 events.py 
+  138  python3.12 events.py 
+  139  python3.12 events.py 
+  140  python3.12 events.py 
+  141  python3.12 events.py 
+  142  python3.12 events.py 
+  143  python3.12 events.py 
+  144  python3.12 events.py 
+  145  python3.12 events.py 
+  146  python3.12 events.py 
+  147  python3.12 events.py 
+  148  python3.12 events.py 
+  149  python3.12 events.py 
+  150  python3.12 events.py 
+  151  cd .sanseira/learnera/
+  152  ls
+  153  code .
+  154  nmcli d wifi
+  155  wifi
+  156  firefox 
+  157  cd .sanseira/
+  158  ls
+  159  cat database.md 
+  160  ls
+  161  cd rarutan/
+  162  ls
+  163  cat project.md 
+  164  ls
+  165  ls services/
+  166  ls services/examine/
+  167  cd services/examine/
+  168  ls
+  169  cat project.md 
+  170  cd ~
+  171  cd .sanseira/learnera/
+  172  vim .
+  173  alsamixer 
+  174  cd ..
+  175  ls
+  176  cd cloud_services/
+  177  ls
+  178  vim events.py 
+  179  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  180  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  181  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  182  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  183  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  184  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  185  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  186  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  187  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  188  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  189  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  190  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  191  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  192  firebase emulators:start --import=./emulator_data/ --export-on-exit[A
+  193  firebase emulators:start --import=./emulator_data/ --export-on-exit[A
+  194  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  195  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  196  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  197  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  198  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  199  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  200  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  201  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  202  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  203  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  204  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  205  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  206  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  207  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  208  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  209  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  210  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  211  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  212  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  213  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  214  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  215  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  216  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  217  light -S 6
+  218  git add .
+  219  git commit -m "Finish auto generate events"
+  220  git push
+  221  flutter run
+  222  flutter run
+  223  flutter run
+  224  [A
+  225  flutter run
+  226  flutter run
+  227  flutter run
+  228  flutter run
+  229  flutter run
+  230  flutter run
+  231  flutter run
+  232  flutter run
+  233  flutter run
+  234  flutter run
+  235  flutter run
+  236  cd umuzi/
+  237  git clone git@github.com:Umuzi-org/Tsohle-Mokhemisi-963-contentitem-.git tests_driven
+  238  cd tests_driven/
+  239  ls
+  240  git checkout -b development
+  241  touch question_1.md
+  242  vim question_1.md 
+  243  vim question_2.md
+  244  git add .
+  245  git commit -m "Add Answers"
+  246  git push
+  247  git push -u origin development
+  248  light -S 36
+  249  cd ~
+  250  cd .sanseira/learnera/
+  251  code .\
+  252  code .
+  253  nmcli d wifi
+  254  wifi
+  255  firefox 
+  256  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  257  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  258  flutter run
+  259  cd .sanseira/learnera/
+  260  code .
+  261  nmcli d wifi
+  262  nmcli d wifi
+  263  wifi
+  264  nmcli d wifi
+  265  nmcli d wifi
+  266  wifi
+  267  firefox 
+  268  cd .sanseira/database.md 
+  269  cat .sanseira/database.md 
+  270  cat .sanseira/database.md | less
+  271  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  272  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  273  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  274  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  275  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  276  flutter run
+  277  flutter run
+  278  flutter run
+  279  flutter run
+  280  flutter run
+  281  firebase deploy --only functions
+  282  cd .sanseira/learnera/
+  283  code .
+  284  nmcli d wifi
+  285  wifi
+  286  firefox
+  287  light -S 6
+  288  ]
+  289  ]
+  290  alsamixer 
+  291  flutter run
+  292  flutter run
+  293  flutter run
+  294  flutter run
+  295  flutter run
+  296  flutter run
+  297  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  298  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  299  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  300  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  301  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  302  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  303  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  304  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  305  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  306  nmcli d wifi
+  307  nmcli d wifi
+  308  nmcli d wifi
+  309  wifi
+  310  firefox
+  311  light -S 36
+  312  cd .sanseira/learnera/
+  313  ls
+  314  code .
+  315  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  316  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  317  flutter run
+  318  flutter run
+  319  flutter run
+  320  flutter run
+  321  flutter run
+  322  git add .
+  323  git commit -m "Add firestore to profile page"
+  324  git push
+  325  cd functions/
+  326  ls
+  327  source venv/bin/activate
+  328  python3.12 main.py 
+  329  wifi
+  330  firefox 
+  331  light -S 6
+  332  ls
+  333  mkdir .virtual_Ego
+  334  cd .virtual_Ego/
+  335  ls
+  336  vim Projects.md
+  337  cd ~
+  338  cd umuzi/Tsohle-Mokhemisi-223-person-javascript/
+  339  ls
+  340  vim person.js 
+  341  node main.js 
+  342  node main.js 
+  343  vim main.js 
+  344  node main.js 
+  345  vi person.js 
+  346  vi person.js 
+  347  vim person.js 
+  348  node main.js 
+  349  git branch
+  350  git add person.js 
+  351  git commit -m "Fix person
+  352  deal with edge cases"
+  353  light -S 6
+  354  light -S 1
+  355  cd .sanseira/
+  356  cd learnera/
+  357  ls
+  358  cd ..
+  359  ls
+  360  cd services/
+  361  ls
+  362  vim Read.md
+  363  nmcli d wifi
+  364  wifi
+  365  firefox 
+  366  wifi
+  367  nmcli d wifi
+  368  wifi
+  369  wifi\
+  370  wifi
+  371  firefox 
+  372  cd umuzi/Tsohle-Mokhemisi-223-person-javascript/
+  373  cat person.js 
+  374  git add person.js 
+  375  git commit -m "Update Person"
+  376  git pull
+  377  git commit -m "Update Person"
+  378  git add person.js 
+  379  git commit -m "Update Person"
+  380  rm main.js 
+  381  git commit -m "Update Person"
+  382  vim person.js 
+  383  light -S 36
+  384  cd .sanseira/learnera/
+  385  code .
+  386  cd .sanseira/
+  387  ls
+  388  cd services/
+  389  ls
+  390  cd examine
+  391  ls
+  392  cd ..
+  393  ls
+  394  cat think/
+  395  ls think/
+  396  git branch
+  397  git checkout feature-RAG
+  398  git add .
+  399  wifi
+  400  firefox
+  401  wifi
+  402  firefox 
+  403  cd .sanseira/services/think/
+  404  ls
+  405  cd app.py 
+  406  vim app.py 
+  407  curl -X POST https://34.121.73.166/solve -H "Content-Type: application/json" -d '{"question": "What is the capital of France?"}'
+  408  curl -X POST http://10.128.0.3:5000/solve -H "Content-Type: application/json" -d '{"question": "What is the capital of France?"}'
+  409  vim tutor_assistant.py 
+  410  cd ..
+  411  cd ..
+  412  ls
+  413  cat api.key 
+  414  cd services/think/
+  415  ls
+  416  vim tutor_assistant.py 
+  417  ls
+  418  cat install.sh 
+  419  curl -X POST https://34.121.73.166/solve -H "Content-Type: application/json" -d '{"question": "What is the capital of France?"}'
+  420  curl -X POST http://34.121.73.166/solve -H "Content-Type: application/json" -d '{"question": "What is the capital of France?"}'
+  421  ls
+  422  vim app.py 
+  423  curl -X POST http://34.121.73.166/solve -H "Content-Type: application/json" -d '{"question": "What is the capital of France?"}'
+  424  curl -X POST http://34.121.73.166/solve -H "Content-Type: application/json" -d '{"question": "What is the capital of France?"}'
+  425  cat ..
+  426  cd ..
+  427  cd ..
+  428  cat api.key 
+  429  curl -X POST http://34.121.73.166/solve -H "Content-Type: application/json" -d '{"question": "What is the capital of France?"}'
+  430  scrot --select
+  431  scrot --select
+  432  scrot --select
+  433  scrot --select
+  434  scrot --select
+  435  scrot --select
+  436  scrot --select
+  437  scrot --select
+  438  cd .sanseira/learnera/
+  439  ls
+  440  code .
+  441  curl -X POST http://34.121.73.166/solve -H "Content-Type: application/json" -d '{"question": "What is the capital of France?"}'
+  442  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  443  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  444  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  445  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  446  flutter run
+  447  flutter run
+  448  wifi
+  449  firefox 
+  450  cd .sanseira/learnera/
+  451  ls
+  452  code .
+  453  ls
+  454  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  455  flutter run
+  456  flutter run
+  457  flutter run
+  458  cd .sanseira/
+  459  cd learnera/
+  460  ls
+  461  code .
+  462  wifi
+  463  nmcli d wifi
+  464  nmcli d wifi
+  465  wifi
+  466  firefox 
+  467  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  468  flutter run
+  469  flutter run
+  470  flutter run
+  471  cd .sanseira/learnera/
+  472  code .
+  473  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  474  wifi
+  475  firefox 
+  476  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  477  flutter run
+  478  cd .sanseira/learnera/
+  479  ls
+  480  ls
+  481  ls
+  482  ls
+  483  ls
+  484  ls
+  485  ls
+  486  lls
+  487  ls
+  488  code .
+  489  nmcli d wifi
+  490  nmcli d wifi
+  491  wifi
+  492  firefox 
+  493  firebase emulators:start --import=./emulator_data/ --export-on-exit
+  494  flutter run
+  495  python3
+  496  cd .sanseira/learnera/
+  497  ls
+  498  code .
+  499  cd umuzi/
+  500  git clone git@github.com:tsohleDev/gitgo.git
+  501  git checkout -m development
+  502  git checkout -m development
+  503  git checkout -b development
+  504  git checkout main
+  505  git branch
+  506  touch README.md
+  507  git add README.md 
+  508  git commit -m "Add Empty README"
+  509  echo "# Testing Git" >> README.md 
+  510  git commit --amend -m "initial commit"
+  511  git status
+  512  git status
+  513  cd ..
+  514  rm -rf github/
+  515  git clone git@github.com:tsohleDev/gitgo.git
+  516  cd gitgo/
+  517  ls
+  518  touch README.md
+  519  git add README.md 
+  520  git commit -m "initial commit"
+  521  echo "# Testing Git" >> README.md 
+  522  git add README.md 
+  523  git commit -m "second commit"
+  524  git status
+  525  git status
+  526  git log
+  527  vim README.md 
+  528  git add README.md 
+  529  git commit -m "third commit"
+  530  git push
+  531  git checkout -m milkshake-flavours
+  532  git checkout -b milkshake-flavours
+  533  echo "milkshake-flavours" > milkshakes.md
+  534  git add milkshakes.md 
+  535  git commit -m "Add milkshakes"
+  536  git push
+  537  git push -u origin milkshake-flavours
+  538  git checkout main
+  539  git checkout -b history
+  540  history > history.txt
